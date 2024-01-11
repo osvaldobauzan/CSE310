@@ -11,8 +11,11 @@ In this Python script, I've created a user-friendly interaction by asking for th
 # Development Environment
 
 Visual Studio Code
+
 Git 1.5
+
 GitHub
+
 Youtube
 
 Python 3.12.1
